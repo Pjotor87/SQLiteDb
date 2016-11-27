@@ -1,0 +1,17 @@
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\Tests.dll.config
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\Tests.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\Tests.pdb
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\EntityFramework.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\SQLiteDb.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\System.Data.SQLite.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\System.Data.SQLite.EF6.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\System.Data.SQLite.Linq.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\SQLiteDb.pdb
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\EntityFramework.xml
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\CODE\NewUnsorted\SQLiteDb\Tests\bin\Debug\System.Data.SQLite.xml
+C:\CODE\NewUnsorted\SQLiteDb\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\CODE\NewUnsorted\SQLiteDb\Tests\obj\Debug\Tests.dll
+C:\CODE\NewUnsorted\SQLiteDb\Tests\obj\Debug\Tests.pdb
